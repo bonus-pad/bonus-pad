@@ -6,7 +6,7 @@
 <p align="center">
 ──── ୨୧ ────
 <p align="center">
-<a href="link">ata</https://sproutsona.atabook.org/>  𖹭 
-<a href="link">straw</https://sproutsona.straw.page/>  𖹭 
-<a href="link">rentry</https://rentry.co/maysita>  𖹭 
-<a href="link">pin</https://www.pinterest.com/sproutsona/> 
+<a <a href="https://sproutsona.atabook.org/">atabook</a>  𖹭 
+<a href="https://rentry.co/maysita">rentry</a>  𖹭 
+<a href="https://www.pinterest.com/sproutsona/">pinterest</a>  𖹭 
+<a href="https://sproutsona.straw.page/">strawpage</a>

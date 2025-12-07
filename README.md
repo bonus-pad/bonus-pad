@@ -1,8 +1,8 @@
 <p align="center">
 <img src="https://files.catbox.moe/agvea9.png">
 <br>
-<br> ${\textsf{\color{#963369}spawn}}$
- ${\textsf{\color{#867A64}follow}}$ ${\textsf{\color{#963369}acount, feel free 2}}$ ${\textsf{\color{#867A64}block}}$ <br>
+<br> ${\textsf{\color{#963369}mind if I get a}}$
+ ${\textsf{\color{#867A64} slice}}$ ${\textsf{\color{#963369}as a good luck}}$ ${\textsf{\color{#867A64}charm}}$ <br>
 <p align="center">
 ──── ୨୧ ────
 <p align="center">

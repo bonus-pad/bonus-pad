@@ -1,4 +1,6 @@
 <p align="center">
+<a href="https://hits.sh/github.com/sproutsona/"><img alt="Hits" src="https://hits.sh/github.com/sproutsona.svg?style=for-the-badge&label=paycheck&extraCount=100&color=963369&labelColor=867A64"/></a>
+<p align="center">
 <img src="https://files.catbox.moe/agvea9.png">
 <br>
 <br> ${\textsf{\color{#963369}mind if I get a}}$
